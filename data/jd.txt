@@ -1,0 +1,59 @@
+OPENAI TECHNICAL EXPERT / DATA SCIENTIST (F/M/D)
+
+FIRMA
+Seit 1866 gilt unsere Leidenschaft der Technik und der Sicherheit. Innovationen beeinflussen unser Leben in vielfältiger Weise. Für die Sicherheit von Menschen und der Gesellschaft setzen wir uns jeden Tag aufs Neue ein und schaffen Vertrauen in neue Technologien. Wir sind Teil des Fortschritts. Wir beraten, wir prüfen, wir zertifizieren. Wir handeln aus Überzeugung, gestalten schon heute die Welt von morgen – setzen Zeichen. Wir nehmen die Zukunft in die Hand. Wir sind TÜV SÜD – mehr als 26.000 Mitarbeitende an weltweit über 1.000 Standorten in rund 50 Ländern.
+Es ist uns ein besonderes Anliegen, jegliche Art von Vielfalt und Besonderheiten der Menschen im Unternehmen zu berücksichtigen und diese zu fördern. Wir freuen uns auf Bewerbende unabhängig von Alter, Nationalität, ethnischem Hintergrund, Behinderung, Geschlecht und geschlechtlicher Identität oder sexueller Orientierung, Religion oder Weltanschauung.
+Die TÜV SÜD Digital Service GmbH unterstützt TÜV SÜD mit digitaler Lösungskompetenz, um die digitale Transformation des Konzerns voranzutreiben. Ziel ist es, entsprechende Produkte und Dienstleistungen für bestehende und neue Geschäftsbereiche zu entwickeln.
+
+AUFGABEN
+- Development and implementation of Machine Learning / Artificial Intelligence models for applications, e.g. in the area of Natural Language Processing or Computer Vision, with a focus on OpenAI technologies to improve our services and processes
+- Collaborate closely with other Data Scientists, subject matter experts, and external service providers
+- Use case-based evaluation and consulting on the use of analytical methods and approaches (especially OpenAI technologies) to improve our processes and services
+- Collaborate closely with our business units as an internal development partner, supporting them from the ideation phase to implementation
+
+QUALIFIKATIONEN
+- Master in computer science, mathematics, physics or a comparable qualification with a focus on Machine Learning / AI.
+- At least three years of experience in implementing Machine Learning / AI models, including the use of OpenAI technologies
+- In-depth expertise in the area of current Machine Learning / AI methods, especially Large Language Models
+- Comprehensive knowledge of relevant programming languages, including Python
+- Experience with cloud computing platforms, preferably Azure
+- Knowledge of natural language processing and/or computer vision
+- Strong analytical skills and the ability to solve complex problems
+- Strong English communication skills are required, and basic knowledge of German is preferred
+
+WEITERE INFORMATIONEN
+In addition to a secure job in a collegial and pleasant atmosphere, TÜV SÜD Digital Service GmbH offers you an exciting and varied working environment. We offer you the opportunity to take responsibility and implement your ideas. We value flat hierarchies and an open-door policy.
+Exchange and collaboration in an international environment, internal and external training opportunities, and numerous social benefits complete our offer.
+
+Details zur Ausschreibung
+BENEFITS
+BESCHÄFTIGUNGSART
+Vollzeit / Unbefristet
+
+ARBEITSMODELL
+TÜV SÜD Standort
+
+STANDORT
+München
+
+LAND
+Deutschland
+
+EINSATZBEREICH
+IT, IT-Sicherheit, Funktionale Sicherheit
+
+BERUFSERFAHRUNG
+Berufserfahrene mit 3-5 Jahren Erfahrung
+
+GESELLSCHAFT
+TÜV SÜD Digital Service GmbH
+
+ORGANISATIONSEINHEIT
+DIG-MGM
+
+KENNZIFFER
+137354
+
+Kontakt
+TÜV SÜD Recruiting
+089 5791-2619

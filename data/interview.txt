@@ -1,0 +1,4 @@
+Question: do you have experience in collaborating or communicating with stakeholders or customers?
+Question: how good is your knowlege in python?
+Question: did you have experience in azure or other cloud platform?
+Question: could you please describe your experience with large lanagueg models or openAI technology?s
