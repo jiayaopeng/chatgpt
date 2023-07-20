@@ -17,6 +17,7 @@ from langchain.chat_models import ChatOpenAI
 openai.api = os.environ["OPENAI_API_KEY"]
 
 if __name__ == '__main__':
+    #### create the create vector index store #####
     loader = DirectoryLoader('data/', glob="**/*.txt")
     docs = loader.load()
     embedding = OpenAIEmbeddings()
@@ -33,6 +34,7 @@ if __name__ == '__main__':
     question = "What is the job?"
     index.query(question)
 
+    #### Create prompt template for the bot ####
     prompt_template = """You are a interviewer from TUV Sud, and you are looking for a candidate for the OpenAI expert/Data Scientist Position
         at TUV SUD. Please ask some data science question to the interviewee and also ask some questions which is specifically required for the job.
         {context}
@@ -40,13 +42,14 @@ if __name__ == '__main__':
         Interviewee(The Human):"""
     prompt = PromptTemplate(template=prompt_template, input_variables=['context', "question"])
 
-    # last chain, chat over doc with history
+    #### Chain everything together ####
     qa_chain = ConversationalRetrievalChain.from_llm(
         llm=ChatOpenAI(model="gpt-3.5-turbo", temperature=0.8),
         retriever=index.vectorstore.as_retriever(),
         combine_docs_chain_kwargs={"prompt": prompt}
     )
 
+    #### Deploy with Gradio ####
     with gr.Blocks() as demo:
         gr.Markdown("## InterviewFreund")
         chatbot = gr.Chatbot()
